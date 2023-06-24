@@ -1,0 +1,103 @@
+.img-product{ 
+
+}
+.info-product{ 
+}
+.info-product>h1{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.info-product>p{
+    margin: 0 0 10px 0;
+    line-height: 21px;
+    color: #666;
+}
+.avaliable{ 
+    min-width: 100px;
+    display: inline-block;
+    margin-bottom: 6px;
+    margin-bottom: 6px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #222;
+}
+.price-product{ 
+    color: #ff5800;
+    font-size: 24px;
+    padding: 0 5px 0 0;
+    font-weight: 600;
+    margin: 30px 0;
+}
+.quanlity-product{ 
+    width: 165px;
+    float: left;
+    background: #eee;
+}
+.add-cartproduct{ 
+    float: left;
+    margin: 0 5px 5px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+    background: #ff5800;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: 0.3s all ease 0s;
+    outline: none;
+}.face-product{ 
+    
+    color: #ff5800;
+    font-size: 14px;
+    padding: 0 5px 0 0;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.sl{ 
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 5px 5px;
+}
+.convient-product{ 
+    font-size: 16px;
+    font-weight: 700px;
+    margin: 5px;
+    text-transform: uppercase;
+}
+.img-product{ 
+    
+}
+.promotion-product{ 
+    padding: 15px 0;
+    margin-top: 15px;
+    border-top: 1px solid #ddd;
+    color: #6565e4;
+    font-size: 14px;
+}
+.product-recommond{
+    margin-top: 25px;
+    background: #f6f6f6;
+    padding: 20px 25px;
+}
+.title-recommand{ 
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.items-recommad{ 
+    
+    width: 100%;
+    background-color: white;
+    
+}
+.item-recommad{ 
+    width: 19%;
+    margin-left: 1%;
+    float: left;
+}

@@ -1,0 +1,373 @@
+.header-top { 
+    background-color: #0272bc;
+   
+    height: 35px;
+    color: white;
+    
+}
+.header-med{ 
+    font-size: 14px;
+    background-color: #f3f3f3;
+}
+.header-bot{ 
+    font-size: 14px;
+    border-bottom:  2px solid #0272bc;
+}
+.articalBook-bot{ 
+    font-size: 14px;
+    border-bottom:  2px solid #0272bc;
+}
+.title-menu{ 
+    background-color: #0272bc;
+    color: #fff;
+    font-size: 14px;
+    height: 50px;
+}
+.title-menu-2{ 
+  
+    font-size: 14px;
+    width: 100%;
+    margin: auto;
+
+}
+.title-menu-2 ul li a { 
+    color: black;
+    font-weight: 500;
+}
+.banner { 
+    border: 1px solid #ddd;
+    padding: 15px;
+    height: 110px;
+    margin-top: 10px;
+}
+.voucher { 
+    padding: 3px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -20x;
+}
+ .banner1{ 
+    width: 242.5px;
+    float: left;
+    margin-right: 10px;
+}
+.banner1 .banner-img{ 
+    width: 60px;
+    float: left;
+    margin-right: 10px;
+}
+.banner1 .banner-body{ 
+    width: 170px;
+    float: left;
+}
+.banner-title{ 
+    color: #444;
+font-size: 14px;
+}
+.banner-des{ 
+    color: #999;
+    font-size: 14px;
+    margin-top: -8px;
+}
+.top-flash{
+    background-color: #ff5800;
+    height: 50px;
+    width: 100%;
+}
+.flash-image{ 
+    width: 60%;
+    height: 80%;
+
+}
+.body-inbodyflash{
+    width: 95%;
+    margin:15px auto;
+
+}
+.body-inbodyflash2{
+    width: 95%;
+    margin:15px auto;
+
+}
+.itembody{
+    width: 16%;
+    height: 365px;
+}
+.itembody2{
+    width: 16%;
+  
+}
+.itembody3{
+    width: 32%;
+  
+}
+
+.itemsbodyproduct{ 
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+
+.con{ 
+    position: relative;
+   
+}
+
+.More{ 
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+
+}
+.con:hover .More{ 
+    opacity: 1;
+    width: 100%;
+    color: White;
+}
+.process{ 
+    width: 90%;
+    height: 16px;
+    background-color: #ffbda6;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    line-height: 18px;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.process2{ 
+    margin-top: 10px;
+    width: 90%;
+    height: 35px;
+    background-color: #ff5800;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    line-height: 35px;
+    border-radius: 2px;
+
+}
+.titleitem{
+	display:block;
+	width: 200px;
+height: 80px;
+overflow: hidden;
+
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+.titleitem:hover{
+    font-size: 16px;
+    text-decoration: none;
+    color: #ff5800;
+}
+.group-product{ 
+    width: 49%;
+    height: 580px;
+
+}
+
+.body-group{ 
+    width: 100%;
+    margin: 0px auto;
+    border: 1px solid #ddd;
+    border-top: none;
+    height: 520px;
+}
+.body-group1{ 
+    width: 95%;
+    margin: 0px auto;
+}
+.foot-header{ 
+    width: 100%;
+    height: 100px;
+    background-color: #0272bc;
+    position: relative;
+}
+.art{ 
+    height: 600px;
+}
+.icon-footheader{ 
+    width: 95px;
+    height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 50px;
+    background-image: url("https://theme.hstatic.net/200000122283/1000637900/14/icon-mail.png?v=10998");
+}
+.text-footheader{ 
+    font-size: 14px;
+    margin-left: 400px;
+    line-height: 100px;
+
+}
+.search-footheader{ 
+    font-size: 14px;
+    width: 80%;
+    height: 40px;
+    margin-top: 27px;
+}
+.foot-body{ 
+    height: 400px;
+    width: 100%;
+    margin-top: 30px;
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    width: 50px;
+    border-style: inset;
+    border-width: 2px;
+    color: brown;
+    border-color:brown;
+  }
+  .listinfo{
+    list-style-type: none; margin-left: -10px;
+    margin-top: 25px;
+  }
+ li{ 
+    margin: 15px 0;
+    font-size: 14px;
+}
+.foot-bodyfoot{ 
+    width: 100%;
+
+}
+ .foot-bodyfoot hr{ 
+    
+        display: block;
+        margin-top: 0.5em;
+
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        border-style: inset;
+        border-width: 2px;
+        color: brown;
+        border-color:brown;
+     
+ }
+ td{
+   
+     vertical-align:middle;
+
+ }
+ .del-cartbtn{ 
+    
+     font-size: 10px;
+     width: 50px;
+     height: 30px;
+     border: none;
+     border-radius: 5px;
+     background-color: rgb(204, 204, 204);
+ }
+ .update-cartbtn{ 
+    font-size: 10px;
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(204, 204, 204);
+}
+.cartdescri{ 
+    width: 49%;
+    height: 200px;
+    border: 1px solid #ddd
+}
+.incarrtdescri{
+    width: 95%;
+    margin: 15px auto;
+}
+.linkcart{ 
+    display: inline-block;
+    background: #ddd;
+    padding: 5px 8px;
+    border-radius: 4px;
+    color: #444;
+    transition: all 0.3s;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+.itembodycart{
+    width: 19%;
+    height: 365px;
+}
+.formsignup{ 
+    width: 50%;
+    height: 500px;
+    background-color: #0272bc;
+    margin: 30px auto;
+}
+.account-phone, .account-name, .account-date,
+ .account-email, .account-address{
+    border: none;
+    border-bottom: 1px solid #999;
+    border-radius: 0px;
+ }
+ .account-phone:focus, .account-name:focus, .account-date:focus,
+ .account-email:focus, .account-address:focus{
+    border: none;
+    border-bottom: 1px solid #999;
+    border-radius: 0px;
+    box-shadow: none;
+ }
+ .account-gender, .account-role{
+    border: none;
+ }
+
+.title-footer{
+    clear: both;
+    color: gray;
+    text-align: center;
+    position: absolute;
+    left: 44%;
+    bottom: 10px;
+}
+.card-header{
+    background: rgb(196, 205, 232);
+    height: 60px;
+    padding-top: 14px;
+    text-align: center;
+}
+.card-footer{
+    background: none;
+    height: 70px;
+    padding-top: 14px;
+    text-align: center;
+}
+.card-footer button{
+    width: 120px;
+    border: none;
+    background: rgb(105, 124, 167);
+    color: white;
+    height: 35px;
+    font-weight: 500;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+.card-footer button:hover{
+    width: 120px;
+    border: none;
+    background: rgb(65, 79, 110);
+    color: white;
+    height: 35px;
+    font-weight: 500;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+.card-account{
+    width: 70%;
+    margin: 100px 30px 0 20%;
+    border: 1px solid #ddd;
+}
